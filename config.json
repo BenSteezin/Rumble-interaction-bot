@@ -1,0 +1,9 @@
+{
+  "channel_url": "https://rumble.com/yourspecificlink",
+  "chat_frequency": 0.5,
+  "like_frequency": 0.9,
+  "follow_frequency": 0.6,
+  "chat_cooldown": [ 30, 38 ],
+  "view_time_range": [ 41, 228],
+  "max_concurrent_bots": 6
+}
